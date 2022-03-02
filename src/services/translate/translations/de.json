@@ -1,0 +1,12 @@
+{
+    "baroqueRecorder": "Barocke Sopranblockflöte",   
+    "germanRecorder": "Deutsche Sopranblockflöte",
+    "english": "English",
+    "german": "Deutsch",
+    "settings": "Einstellungen",
+    "language": "Sprache",
+    "accidentalStyle": "Versetzungszeichen",
+    "noteStyle": "Notation Art",
+    "instrument": "Instrument",
+    "octave": "Oktave"
+}
